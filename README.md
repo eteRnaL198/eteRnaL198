@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eteRnaL198&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eteRnaL198&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eteRnaL198&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eteRnaL198&theme=github&utcOffset=+9)
+
